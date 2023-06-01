@@ -19,12 +19,12 @@
 }
 .Contenido,h2{
     font-size: 50px;
-    color: blanchedalmond;
+    color: whitesmoke;
 
 }
 .Contenido,h3{
     font-size: 40px;
-    color: gray;
+    color: floralwhite;
 
 }
 nav{
@@ -67,7 +67,18 @@ a{
 a:hover{
     color: blueviolet;
 }
-
+#Rodrigo{
+    background-color: grey;
+    color: black;
+}
+#Uriel{
+    background-color: teal;
+    color: black;
+}
+#Joshua{
+    background-color:black; 
+    color:white;
+}
 header{
     background-color: black;
     border: 5px gray solid;
