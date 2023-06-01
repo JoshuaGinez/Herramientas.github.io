@@ -20,7 +20,16 @@
 .Contenido,h2{
     font-size: 50px;
     color: whitesmoke;
-
+    
+}
+#contenido, p{
+    font-size: 50px;
+    color: black ;
+    background-color: grey;
+}
+#contenido, h2{
+    font-size: 40px;
+    color: floralwhite;
 }
 .Contenido,h3{
     font-size: 40px;
